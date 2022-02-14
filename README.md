@@ -205,7 +205,7 @@ Publish the website in the given URL.
     text-align: center;
     color:white;
     font-weight: bold;
-    font-size: larger;"> Developed by Bhuvaneshwari</p>
+    font-size: larger;"> Developed by mohanraj S</p>
   </body>
 </html>
 ~~~
